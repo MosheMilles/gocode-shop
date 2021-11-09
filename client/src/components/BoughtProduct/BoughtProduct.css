@@ -1,0 +1,14 @@
+.product-row {
+    /* position      : relative; */
+    text-align    : center;
+    width         : 180px;
+    padding-top   : 10px;
+    padding-bottom: 10px;
+}
+
+.bought-product-image {
+    position  : absolute;
+    /* display: inline; */
+    width     : 25%;
+    /* height    : auto; */
+}

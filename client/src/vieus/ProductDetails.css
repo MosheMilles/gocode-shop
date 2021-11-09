@@ -1,0 +1,11 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+}
+.selected-product{
+    width: 400px;
+}
+img{
+    height: 200px;
+    width: auto;
+}
